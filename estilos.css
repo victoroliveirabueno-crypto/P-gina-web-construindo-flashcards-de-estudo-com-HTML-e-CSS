@@ -8,5 +8,10 @@
 }
 
 .cartao {
-  
+   widht: 260px;
+   height: 200px;
+}
+
+.cartao-frente, .cartao-verso {
+   widht: 100%;
 }
